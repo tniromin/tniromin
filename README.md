@@ -1,5 +1,7 @@
-<h1>Hello There</h1><br>
-<img src="https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif">
+<h1 align="middle">Hello There</h1><br>
+<h3 align="middle">Under Construction</h3>
+<img src="https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif"> 
+  <a href="https://www.freeiconspng.com/img/38958" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/construction-icon-11.png" width="350" alt="Construction Symbols" /></a>
 
 
 <!--
