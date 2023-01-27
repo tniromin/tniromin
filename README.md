@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1>Hello There</h1><br>
+<img src="https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif">
+
 
 <!--
 **tniromin/tniromin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
