@@ -1,7 +1,10 @@
 
 
 <h1 align="middle">Hello There</h1><br><img  width="100%" height="auto" class="center" src="https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif">
-<h3 align="middle">Under Construction<a href="https://www.freeiconspng.com/img/38958" title="Image from freeiconspng.com">&nbsp;&nbsp;<img src="https://www.freeiconspng.com/uploads/construction-icon-11.png" width="70" alt="Construction Symbols" /></a> </h3>
+<h3 align="middle">Under Construction<a href="https://www.freeiconspng.com/img/38958" title="Image from freeiconspng.com">&nbsp;&nbsp;
+<!--<img src="https://www.freeiconspng.com/uploads/construction-icon-11.png" width="70" alt="Construction Symbols" /> 
+  Image taken down cause it doesnt suite the page
+--></a> </h3>
 
 
 
