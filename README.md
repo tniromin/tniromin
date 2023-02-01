@@ -1,13 +1,9 @@
 
-<video width="320" height="240" autoplay>
-  <source src="https://img-comment-fun.9cache.com/media/aRrQb62/agR1nMnw_700wv_0.mp4" type="video/mp4">
-
-</video>
-<h1 align="middle">Hello There</h1><br><img  width="100%" height="auto" class="center" src="https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif">
-<h3 align="middle">Under Construction<a href="https://www.freeiconspng.com/img/38958" title="Image from freeiconspng.com">&nbsp;&nbsp;
+<h1 align="middle">Hello There</h1><br><img  width="100%" height="auto" class="center" src="https://static.wikia.nocookie.net/meme/images/1/15/Wine.gif/revision/latest?cb=20171029023215">
+<h3 align="middle">Under Construction -LULZ &nbsp;&nbsp;
 <!--<img src="https://www.freeiconspng.com/uploads/construction-icon-11.png" width="70" alt="Construction Symbols" /> 
   Image taken down cause it doesnt suite the page
---></a> </h3>
+--> </h3>
 
 
 
