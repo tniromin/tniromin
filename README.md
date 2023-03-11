@@ -1,6 +1,6 @@
 
 <h1 align="middle">Hello There</h1><br><img  width="100%" height="auto" class="center" src="https://static.wikia.nocookie.net/meme/images/1/15/Wine.gif/revision/latest?cb=20171029023215">
-<h3 align="middle">Under Construction -LULZ &nbsp;&nbsp;
+<h3 align="middle">[Under Construction]---LULZ &nbsp;&nbsp;
 <!--<img src="https://www.freeiconspng.com/uploads/construction-icon-11.png" width="70" alt="Construction Symbols" /> 
   Image taken down cause it doesnt suite the page
 --> </h3>
