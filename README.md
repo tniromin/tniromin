@@ -1,6 +1,3 @@
-
-<h1 align="center">Hello There</h1>
-
 <table border="0">
   <tr>
     <td>
