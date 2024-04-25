@@ -1,10 +1,6 @@
 <body>
   <img fill="none">
     <style>
-      @charset "UTF-8";
-      *:focus {
-        outline: none !important;
-      }
       body {
         background-color: #C8C2AA;
         background-size: 4px 4px;
