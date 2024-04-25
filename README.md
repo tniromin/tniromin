@@ -1,7 +1,6 @@
 <html>
 <head>
-  <title>Tniromin<title>
-   <link rel="stylesheet" href="styles/nier.css">
+  <link rel="stylesheet" href="styles/nier.css">
 </head>
 <table border="0">
   <tr>
