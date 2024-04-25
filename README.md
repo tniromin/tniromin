@@ -5,9 +5,6 @@
       *:focus {
         outline: none !important;
       }
-      /*
-      Original forked from following user
-      https://codepen.io/levise*/
       body {
         background-color: #C8C2AA;
         background-size: 4px 4px;
