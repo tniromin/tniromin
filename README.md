@@ -1,3 +1,8 @@
+<html>
+<head>
+  <title>Tniromin<title>
+   <link rel="stylesheet" href="styles/nier.css">
+</head>
 <table border="0">
   <tr>
     <td>
@@ -102,3 +107,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</body>
+</html>
