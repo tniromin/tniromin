@@ -1,5 +1,5 @@
 <style>
-  <link rel="stylesheet" type="text/css" href="nier.css">
+<link rel="stylesheet" type="text/css" href="nier.css">
 </style>
 <table border="0">
   <tr>
