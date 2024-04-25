@@ -1,8 +1,3 @@
-<html>
-<head>
-  <link rel="stylesheet" href="styles/nier.css">
-</head>
-<body>
 <style>
   @charset "UTF-8";
 *:focus {
@@ -230,5 +225,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</body>
-</html>
