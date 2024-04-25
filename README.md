@@ -1,3 +1,4 @@
+<body>
 <style>
 @charset "UTF-8";
 *:focus {
@@ -109,7 +110,6 @@ img {
   box-shadow: 3px 3px 0 rgba(77, 73, 62, 0.6);
 }
 </style>
-<body>
 <table border="0">
   <tr>
     <td>
