@@ -2,6 +2,7 @@
 <head>
   <link rel="stylesheet" href="styles/nier.css">
 </head>
+<body>
 <table border="0">
   <tr>
     <td>
