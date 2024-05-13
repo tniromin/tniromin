@@ -3,31 +3,24 @@
 </div>
 
 ###
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tniromin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" width="40%"alt="stats graph" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tniromin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" width="40%" alt="languages graph"/>
+<div align="center" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=tniromin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tniromin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="200" alt="languages graph"/>
 </div>
 
 ###
 
 </p>
-
-<h3 align="middle">[Under Construction]---LULZ &nbsp;&nbsp;
-<!--<img src="https://www.freeiconspng.com/uploads/construction-icon-11.png" width="70" alt="Construction Symbols" /> 
-  Image taken down cause it doesnt suite the page
---> </h3>
-
-<!--<h1 align="center">Hi 👋, I'm Thimira Niromin</h1>
-<h3 align="center">A Developer and linux user from Sri Lanka</h3>-->
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img width="100%" src="https://github-profile-trophy.vercel.app/?username=tniromin&theme=tokyonight" alt="tniromin" />
   </a> 
 </p>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,7 +28,7 @@
   <a href="https://www.hackerrank.com/@tniromin2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tniromin2" height="30" width="40" /></a>
 </p>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -77,7 +70,7 @@
   </a>
 </p>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   
