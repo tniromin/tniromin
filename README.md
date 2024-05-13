@@ -12,23 +12,7 @@
 
 ###
 
-</p>
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=tniromin&theme=tokyonight" alt="tniromin" />
-  </a> 
-</p>
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/thimira-niromin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thimira-niromin" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/@tniromin2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tniromin2" height="30" width="40" /></a>
-</p>
-
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -73,6 +57,26 @@
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/thimira-niromin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thimira-niromin" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/@tniromin2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tniromin2" height="30" width="40" /></a>
+</p>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+###
+<!-- Troophies : Change to badges that u earn add above or to banner-->
+</p>
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=tniromin&theme=tokyonight" alt="tniromin" />
+  </a> 
+</p>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 <img src="https://profile-counter.glitch.me/tniromin/count.svg?"  />
 </div>
