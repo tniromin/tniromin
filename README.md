@@ -1,48 +1,18 @@
-<table border="0">
-  <tr>
-    <td>
-      <img height="auto" width="100%" class="center" src="https://static.wikia.nocookie.net/meme/images/1/15/Wine.gif/revision/latest?cb=20171029023215">
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>
-            <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tniromin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tniromin" />
-          </td>
-        <tr>
-          <td>
-            <img width="100%" src="https://github-readme-stats.vercel.app/api?username=tniromin&show_icons=true&locale=en&theme=tokyonight" alt="tniromin" />
-          </td>
-        </tr>
-       </table>
-     </td>
-   </tr>
-</table>
-</p>
+<div align="center">
+  <img width="100%" src="https://i.imgur.com/2WhcOKP.gif"  />
+</div>
 
-<h3 align="middle">[Under Construction]---LULZ &nbsp;&nbsp;
-<!--<img src="https://www.freeiconspng.com/uploads/construction-icon-11.png" width="70" alt="Construction Symbols" /> 
-  Image taken down cause it doesnt suite the page
---> </h3>
+###
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--<h1 align="center">Hi 👋, I'm Thimira Niromin</h1>
-<h3 align="center">A Developer and linux user from Sri Lanka</h3>-->
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=tniromin&theme=tokyonight" alt="tniromin" />
-  </a> 
-</p>
+<div align="center" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=tniromin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tniromin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="200" alt="languages graph"/>
+</div>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/thimira-niromin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thimira-niromin" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/@tniromin2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tniromin2" height="30" width="40" /></a>
-</p>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -84,8 +54,34 @@
   </a>
 </p>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/thimira-niromin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thimira-niromin" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/@tniromin2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tniromin2" height="30" width="40" /></a>
+</p>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+###
+<!-- Troophies : Change to badges that u earn add above or to banner-->
+</p>
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=tniromin&theme=tokyonight" alt="tniromin" />
+  </a> 
+</p>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+<img src="https://profile-counter.glitch.me/tniromin/count.svg?"  />
+</div>
+
+###
 
 
 <!--
