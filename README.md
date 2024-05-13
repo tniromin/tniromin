@@ -1,12 +1,12 @@
 <div align="center">
-  <img width="100%" src="res/banner.gif"  />
+  <img width="100%" src="https://i.imgur.com/2WhcOKP.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tniromin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tniromin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tniromin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" width="40%"alt="stats graph" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tniromin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" width="40%" alt="languages graph"/>
 </div>
 
 ###
